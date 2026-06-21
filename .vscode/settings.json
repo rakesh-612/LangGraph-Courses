@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Reflexion Agent/chains_"
+    ]
+}
